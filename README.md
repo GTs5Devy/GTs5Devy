@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GTs5Devy
+- 👋 Hi, I’m @AJ
 - 👀 I’m interested in coding apps and creating AI.
 - 🌱 I’m currently learning: How to code in Javascript as im young.
 - 💞️ I’m looking to collaborate on nothing at the moment.
