@@ -28,3 +28,11 @@
   </table>
 
 </div>
+
+<br/>
+
+## About
+
+Focused on telemetry processing, sequence modeling, and performance analysis.  
+Building tools to extract structured insight from racing data.  
+Currently experimenting with temporal models and domain generalization.
