@@ -1,6 +1,6 @@
 <div align="center"
      style="
-       background: #000 url('assets/bg.svg') center/cover no-repeat;
+       background-color: #000;
        padding: 0;
        border-radius: 16px;
        overflow: hidden;
@@ -8,7 +8,7 @@
        margin: 0 auto;
      ">
 
-  <table style="border-collapse:collapse;border-spacing:0;width:100%;">
+  <table style="border-collapse:collapse;border-spacing:0;width:100%;background-color:#000;">
     <tr>
       <td style="padding:0;line-height:0;">
         <img src="assets/g1.gif" style="display:block;width:100%;height:auto;" />
@@ -31,8 +31,12 @@
 
 <br/>
 
-## About
+<h2 style="font-family: monospace; letter-spacing: 2px; text-transform: uppercase;">
+ABOUT
+</h2>
 
-Focused on telemetry processing, sequence modeling, and performance analysis.  
-Building tools to extract structured insight from racing data.  
+<p style="font-family: monospace; font-size: 14px; line-height: 1.6;">
+Focused on telemetry processing, sequence modeling, and performance analysis.<br/>
+Building tools to extract structured insight from racing data.<br/>
 Currently experimenting with temporal models and domain generalization.
+</p>
