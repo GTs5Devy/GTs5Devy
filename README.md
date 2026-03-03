@@ -1,20 +1,30 @@
-<div align="center">
-  <table style="border-collapse:collapse;border-spacing:0;">
-    <tr style="padding:0;margin:0;">
-      <td style="padding:0;margin:0;line-height:0;">
-        <img src="assets/g1.gif" style="display:block;" width="420" />
+<div align="center"
+     style="
+       background: #000 url('assets/bg.svg') center/cover no-repeat;
+       padding: 0;
+       border-radius: 16px;
+       overflow: hidden;
+       max-width: 920px;
+       margin: 0 auto;
+     ">
+
+  <table style="border-collapse:collapse;border-spacing:0;width:100%;">
+    <tr>
+      <td style="padding:0;line-height:0;">
+        <img src="assets/g1.gif" style="display:block;width:100%;height:auto;" />
       </td>
-      <td style="padding:0;margin:0;line-height:0;">
-        <img src="assets/g2.gif" style="display:block;" width="420" />
+      <td style="padding:0;line-height:0;">
+        <img src="assets/g2.gif" style="display:block;width:100%;height:auto;" />
       </td>
     </tr>
-    <tr style="padding:0;margin:0;">
-      <td style="padding:0;margin:0;line-height:0;">
-        <img src="assets/g3.gif" style="display:block;" width="420" />
+    <tr>
+      <td style="padding:0;line-height:0;">
+        <img src="assets/g3.gif" style="display:block;width:100%;height:auto;" />
       </td>
-      <td style="padding:0;margin:0;line-height:0;">
-        <img src="assets/g4.gif" style="display:block;" width="420" />
+      <td style="padding:0;line-height:0;">
+        <img src="assets/g4.gif" style="display:block;width:100%;height:auto;" />
       </td>
     </tr>
   </table>
+
 </div>
