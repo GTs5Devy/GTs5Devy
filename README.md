@@ -1,14 +1,20 @@
 <div align="center">
-
-<table cellspacing="0" cellpadding="0">
-<tr>
-<td><img src="assets/g1.gif" width="420px"/></td>
-<td><img src="assets/g2.gif" width="420px"/></td>
-</tr>
-<tr>
-<td><img src="assets/g3.gif" width="420px"/></td>
-<td><img src="assets/g4.gif" width="420px"/></td>
-</tr>
-</table>
-
+  <table style="border-collapse:collapse;border-spacing:0;">
+    <tr style="padding:0;margin:0;">
+      <td style="padding:0;margin:0;line-height:0;">
+        <img src="assets/g1.gif" style="display:block;" width="420" />
+      </td>
+      <td style="padding:0;margin:0;line-height:0;">
+        <img src="assets/g2.gif" style="display:block;" width="420" />
+      </td>
+    </tr>
+    <tr style="padding:0;margin:0;">
+      <td style="padding:0;margin:0;line-height:0;">
+        <img src="assets/g3.gif" style="display:block;" width="420" />
+      </td>
+      <td style="padding:0;margin:0;line-height:0;">
+        <img src="assets/g4.gif" style="display:block;" width="420" />
+      </td>
+    </tr>
+  </table>
 </div>
