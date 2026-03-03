@@ -28,4 +28,4 @@ This saves the best model to handling_lstm.pth
 python test_wet.py
 ```
 This loads the dry-trained model and runs it on wet data.
-The accuracy drop between train validation and wet test IS your result.
+The accuracy drop between train validation and wet test is the result.
